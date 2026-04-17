@@ -1,0 +1,7 @@
+proxies:
+  - {"type":"hysteria","name":"🇨🇦 ShatakVPN 392391","server":"50.114.40.110","port":62839,"up":"1100","down":"1100","auth-str":"K6MWhE5PP8aKzSGIF1I4Zjb8tpLicSG3NzWckWLsRIGZ9CAOc9","protocol":"wechat-video","alpn":["h3"],"skip-cert-verify":true,"sni":"ghbi.ir"}
+  - {"name":"🏳️ ShatakVPN 119563","type":"http","tls":true,"server":"140.82.113.3:443/4n0nymou3","port":443,"sni":"140.82.113.3:443/4n0nymou3"}
+  - {"type":"hysteria2","name":"🏳️ ShatakVPN 290141","server":"37.114.49.38","port":2056,"password":"4d092122-268a-4a1a-b23f-83931c5abc3a","sni":"flkf.mangshe.xyz","skip-cert-verify":true,"tfo":false}
+  - {"name":"🏳️ ShatakVPN 423015","type":"http","tls":true,"server":"149.154.167.99:443/BXAMbot","port":443,"sni":"149.154.167.99:443/BXAMbot"}
+  - {"type":"hysteria2","name":"🏳️ ShatakVPN 436695","server":"144.31.224.14","port":443,"password":"123456789StrongPass","sni":"www.cloudflare.com","skip-cert-verify":true,"tfo":false}
+  - {"type":"hysteria2","name":"🏳️ ShatakVPN 487668","server":"62.210.124.146","port":22000,"password":"dongtaiwang.com","sni":"www.microsoft.com","skip-cert-verify":true,"tfo":false}
